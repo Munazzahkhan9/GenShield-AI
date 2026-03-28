@@ -1,15 +1,19 @@
 # GenShield-AI
 An intelligent cloud security framework powered by Generative AI that continuously monitors cloud environments, detects anomalies in real time, and proactively prevents emerging threats before they escalate.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 **Title: "Generative AI for Real-Time Cloud Security:
         Advanced Anomaly Detection Using GPT Models"**
+        
 ✅ Generative AI → Grok AI Integration
 ✅ Real-Time → Instant threat detection
 ✅ Cloud Security → Cloud metrics monitoring
 ✅ Anomaly Detection → Threat classification
 ✅ GPT Models → Grok (GPT-based) AI
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 **📚 TECHNOLOGY STACK**
+
 Backend:
 - Python 3.10+
 - Django 5.1.1
@@ -28,7 +32,7 @@ AI/Security:
 - Threat Detection
 - Anomaly Classification
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 **✅ PROJECT COMPLETION CHECKLIST**
 
@@ -48,12 +52,15 @@ AI/Security:
 
 ⚠️ API key verification needed
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 **👤Authors**
 
-MUNAZZAH KHAN
-NASHRA FARIHA 
-HUMERA FATIMA
+Munazzah Khan
+
+Nashra Fariha
+
+Humera Fatima
 
 Department of CSE – Artificial Intelligence & Machine Learning
 
